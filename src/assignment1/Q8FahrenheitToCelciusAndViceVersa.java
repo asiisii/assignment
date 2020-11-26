@@ -16,7 +16,7 @@ public class Q8FahrenheitToCelciusAndViceVersa {
 		System.out.print("Enter temp in Fahrenheit: ");
 		fahrenheit = temp.nextDouble();
 		
-		//we know 
+		//we know converting fahrenheit to celsius
 		fahrenheit = (9*celsius/5) + 32 ;
 		celsius = (5/9) + (fahrenheit -32);
 		
